@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/greenedge-app/static/css/main.6c5b9992.css",
+    "main.js": "/greenedge-app/static/js/main.48099f8d.js",
+    "static/js/787.e86a563f.chunk.js": "/greenedge-app/static/js/787.e86a563f.chunk.js",
+    "index.html": "/greenedge-app/index.html",
+    "main.6c5b9992.css.map": "/greenedge-app/static/css/main.6c5b9992.css.map",
+    "main.48099f8d.js.map": "/greenedge-app/static/js/main.48099f8d.js.map",
+    "787.e86a563f.chunk.js.map": "/greenedge-app/static/js/787.e86a563f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c5b9992.css",
+    "static/js/main.48099f8d.js"
+  ]
+}
